@@ -7,6 +7,11 @@
 <h2>📜 Certifications:</h2>
 
 
+- [CompTIA Pentest+](https://www.comptia.org/certifications/pentest)
+- [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+- [CompTIA Sec+](https://www.comptia.org/certifications/security)
+- [(ISC)² Systems Security Certified Practitioner](https://www.isc2.org/Certifications/SSCP)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrianGibbs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
