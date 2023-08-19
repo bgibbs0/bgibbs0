@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Azure Honeypot VM Lab](https://github.com/bgibbs0/HoneyPotLab)
+
 <h2>🖥️ IT Projects:</h2>
 
 <h2>📜 Certifications:</h2>
