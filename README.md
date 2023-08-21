@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Azure Honeypot VM Lab](https://github.com/bgibbs0/HoneyPotLab)
+- [Cybersecurity Infographics](https://github.com/bgibbs0/CyberInfographs)
 
 <h2>🖥️ IT Projects:</h2>
 
