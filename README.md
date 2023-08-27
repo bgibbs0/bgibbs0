@@ -8,6 +8,7 @@
 <h2>🖥️ IT Projects:</h2>
 
 - [Setting Up AD Lab In Azure](https://github.com/bgibbs0/ADLabSetup)
+- [Ubuntu Virtual Machine](https://github.com/bgibbs0/UbuntuVM)
 
 <h2>📜 Certifications:</h2>
 
